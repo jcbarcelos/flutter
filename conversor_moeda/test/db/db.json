@@ -1,0 +1,198 @@
+{
+  "by": "get_high_symbols",
+  "valid_key": true,
+  "results": {
+    "AALR3": {
+      "symbol": "AALR3",
+      "name": "Alliar",
+      "company_name": "Centro De Imagem Diagnosticos S.A.",
+      "document": "42.771.949/0001-35",
+      "description": "Prestação de Serviços de Medicina Diagnóstica.",
+      "website": "http://ri.alliar.com/",
+      "region": "Brazil/Sao Paulo",
+      "currency": "BRL",
+      "market_time": {
+        "open": "10:00",
+        "close": "17:30",
+        "timezone": -3
+      },
+      "market_cap": 1770.84,
+      "price": 14.86,
+      "change_percent": 20.03,
+      "updated_at": "2021-11-18 20:50:37"
+    },
+    "CASH3": {
+      "symbol": "CASH3",
+      "name": "Meliuz",
+      "company_name": "Méliuz S.A.",
+      "document": "14.110.585/0001-07",
+      "description": "Portal Virtual Para Veiculação E Divulgação de Marcas. Produtos E Outros Materiais. Locação de Espaço Publicitário. Intermediação de Negócios. Licenciamento de Softwares E Participação em Sociedades.",
+      "website": null,
+      "region": "Brazil/Sao Paulo",
+      "currency": "BRL",
+      "market_time": {
+        "open": "10:00",
+        "close": "17:30",
+        "timezone": -3
+      },
+      "market_cap": 3270.64,
+      "price": 4.07,
+      "change_percent": 9.41,
+      "updated_at": "2021-11-18 20:50:38"
+    },
+    "CASN3": {
+      "symbol": "CASN3",
+      "name": "CaSAn",
+      "company_name": "Cia Catarinense De Aguas E Saneam. CaSAn",
+      "document": "82.508.433/0001-17",
+      "description": "Atuar Como Instituição Integrante Do Sistema de Saneamento Básico E de Saúde Do Estado de Santa Catarina Através Dos Serviços de Captação. Tratamento E Distribuição de água E Tratamento de Esgoto.",
+      "website": "http://www.casan.com.br/",
+      "region": "Brazil/Sao Paulo",
+      "currency": "BRL",
+      "market_time": {
+        "open": "10:00",
+        "close": "17:30",
+        "timezone": -3
+      },
+      "market_cap": 0,
+      "price": 15.01,
+      "change_percent": 8.51,
+      "updated_at": "2021-11-18 17:36:05"
+    },
+    "PRNR3": {
+      "symbol": "PRNR3",
+      "name": "Priner",
+      "company_name": "Priner Serviços Industriais S.A.",
+      "document": "18.593.815/0001-97",
+      "description": "Prestação de Serviços Industriais. Principalmente Nos Segmentos Petroquímico. óleo E Gás. Siderurgia. Papel E Celulose E Químico.",
+      "website": "http://www.priner.com.br/",
+      "region": "Brazil/Sao Paulo",
+      "currency": "BRL",
+      "market_time": {
+        "open": "10:00",
+        "close": "17:30",
+        "timezone": -3
+      },
+      "market_cap": 271.93,
+      "price": 7.13,
+      "change_percent": 6.42,
+      "updated_at": "2021-11-18 17:36:05"
+    },
+    "JDCO34": {
+      "symbol": "JDCO34",
+      "name": "JD COM DRN",
+      "company_name": null,
+      "document": null,
+      "description": null,
+      "website": null,
+      "region": "Brazil/Sao Paulo",
+      "currency": "BRL",
+      "market_time": {
+        "open": "10:00",
+        "close": "17:30",
+        "timezone": -3
+      },
+      "market_cap": 141733,
+      "price": 486.79,
+      "change_percent": 6.12,
+      "updated_at": "2021-11-18 17:36:05"
+    },
+    "ALLD3": {
+      "symbol": "ALLD3",
+      "name": "Allied",
+      "company_name": "Allied Tecnologia S.A.",
+      "document": "20.247.322/0001-47",
+      "description": "Desenvolvimento E Licenciamento de Plataformas Digitais Para Comercialização de Serviços de Tecnologia. Além de Soluções Logísticas E de Distribuição de Produtos.",
+      "website": null,
+      "region": "Brazil/Sao Paulo",
+      "currency": "BRL",
+      "market_time": {
+        "open": "10:00",
+        "close": "17:30",
+        "timezone": -3
+      },
+      "market_cap": 1552.77,
+      "price": 16.66,
+      "change_percent": 6.11,
+      "updated_at": "2021-11-18 17:36:05"
+    },
+    "ALPA4": {
+      "symbol": "ALPA4",
+      "name": "Alpargatas",
+      "company_name": "Alpargatas S.A.",
+      "document": "61.079.117/0001-05",
+      "description": "Indústria E Comércio de Calçados E Artigos Esportivos",
+      "website": "http://www.alpargatas.com.br/",
+      "region": "Brazil/Sao Paulo",
+      "currency": "BRL",
+      "market_time": {
+        "open": "10:00",
+        "close": "17:30",
+        "timezone": -3
+      },
+      "market_cap": 23392.1,
+      "price": 43.3,
+      "change_percent": 5.61,
+      "updated_at": "2021-11-18 20:50:37"
+    },
+    "RPAD3": {
+      "symbol": "RPAD3",
+      "name": "Alfa Holding",
+      "company_name": "Alfa Holdings S.A.",
+      "document": "17.167.396/0001-69",
+      "description": "Emp. Adm. Part. - Intermediação Financeira",
+      "website": "http://www.alfanet.com.br/",
+      "region": "Brazil/Sao Paulo",
+      "currency": "BRL",
+      "market_time": {
+        "open": "10:00",
+        "close": "17:30",
+        "timezone": -3
+      },
+      "market_cap": 566.86,
+      "price": 6.33,
+      "change_percent": 5.5,
+      "updated_at": "2021-11-18 17:36:05"
+    },
+    "VULC3": {
+      "symbol": "VULC3",
+      "name": "Vulcabras",
+      "company_name": "Vulcabras/Azaleia S.A.",
+      "document": "50.926.955/0001-42",
+      "description": "Representantes Comerciais E Agentes Do Comércio de Têxteis. Vestuário. Calçados E Artigos de Viagem.",
+      "website": "http://www.vulcabrasazaleiari.com.br/",
+      "region": "Brazil/Sao Paulo",
+      "currency": "BRL",
+      "market_time": {
+        "open": "10:00",
+        "close": "17:30",
+        "timezone": -3
+      },
+      "market_cap": 2573.07,
+      "price": 10.5,
+      "change_percent": 5.21,
+      "updated_at": "2021-11-18 20:50:39"
+    },
+    "SBFG3": {
+      "symbol": "SBFG3",
+      "name": "Grupo Sbf",
+      "company_name": "Grupo Sbf Sa",
+      "document": "13.217.485/0001-11",
+      "description": "A Companhia Tem Por Objeto Social (a) Administração de Bens Próprios; E. (b) A Participação.\ncomo Sócia Ou Acionista. em Outras Empresas.",
+      "website": "http://www.centauro.com.br/ri/",
+      "region": "Brazil/Sao Paulo",
+      "currency": "BRL",
+      "market_time": {
+        "open": "10:00",
+        "close": "17:30",
+        "timezone": -3
+      },
+      "market_cap": 6321.78,
+      "price": 25.99,
+      "change_percent": 5.01,
+      "updated_at": "2021-11-18 17:36:05"
+    }
+  },
+  "execution_time": 0.09,
+  "from_cache": false
+}

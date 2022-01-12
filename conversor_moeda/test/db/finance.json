@@ -1,0 +1,23 @@
+{
+  "by": "default",
+  "valid_key": true,
+  "results": {
+    "currencies": {
+      "source": "BRL",
+      "USD": {
+        "name": "Dollar",
+        "buy": 5.5797,
+        "sell": 5.5792,
+        "variation": -1.575
+      },
+      "EUR": {
+        "name": "Euro",
+        "buy": 6.3435,
+        "sell": 6.3422,
+        "variation": -1.215
+      }
+    }
+  },
+  "execution_time": 0.0,
+  "from_cache": true
+}
